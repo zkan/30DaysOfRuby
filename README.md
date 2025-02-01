@@ -1,2 +1,1 @@
-# 30DaysOfRuby
-#30DaysOfRuby
+# 30 Days of Ruby
