@@ -4,3 +4,4 @@
 * [Day 2](day-2) - Ugly Prime Number ([Ref](https://www.youtube.com/watch?v=WT6aoeOsEwY))
 * [Day 3](day-3) - Better Prime Number ([Ref](https://www.youtube.com/watch?v=Y3W64fXmfkw))
 * [Day 4](day-4) - Prime Algorithm Recursively ([Ref](https://www.youtube.com/watch?v=cO9dNVzjz8c))
+* [Day 5](day-5) - Sum Prime Numbers with Functional Programming ([Ref](https://www.youtube.com/watch?v=rB2kEIsGUFc))
