@@ -5,3 +5,4 @@
 * [Day 3](day-3) - Better Prime Number ([Ref](https://www.youtube.com/watch?v=Y3W64fXmfkw))
 * [Day 4](day-4) - Prime Algorithm Recursively ([Ref](https://www.youtube.com/watch?v=cO9dNVzjz8c))
 * [Day 5](day-5) - Sum Prime Numbers with Functional Programming ([Ref](https://www.youtube.com/watch?v=rB2kEIsGUFc))
+* [Day 6](day-6) - Factorial Numbers ([Ref](https://www.youtube.com/watch?v=Ee1p3P-Yx_c))
