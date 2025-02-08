@@ -7,3 +7,4 @@
 * [Day 5](day-5) - Sum Prime Numbers with Functional Programming ([Ref](https://www.youtube.com/watch?v=rB2kEIsGUFc))
 * [Day 6](day-6) - Factorial Numbers ([Ref](https://www.youtube.com/watch?v=Ee1p3P-Yx_c))
 * [Day 7](day-7) - Factorial Numbers Version 2 ([Ref](https://www.youtube.com/watch?v=rdo7G3FPdBw))
+* [Day 8](day-8) - Ruby Way to Factorial - Functional Programming ([Ref](https://www.youtube.com/watch?v=ar_EvQggpjY))
