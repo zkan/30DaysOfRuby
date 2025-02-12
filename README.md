@@ -10,3 +10,4 @@
 * [Day 8](day-8) - Ruby Way to Factorial - Functional Programming ([Ref](https://www.youtube.com/watch?v=ar_EvQggpjY))
 * [Day 9](day-9) - Final Factorial Version - Functional Programming ([Ref](https://www.youtube.com/watch?v=szH91N0HZ_w))
 * [Day 10](day-10) - Recursive Factorial Numbers ([Ref](https://www.youtube.com/watch?v=jQUlFVqyJxQ))
+* [Day 11](day-11) - Repdigit Numbers ([Ref](https://www.youtube.com/watch?v=gv3Qddjp5IY))
