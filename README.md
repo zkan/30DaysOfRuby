@@ -13,3 +13,4 @@
 * [Day 11](day-11) - Repdigit Numbers ([Ref](https://www.youtube.com/watch?v=gv3Qddjp5IY))
 * [Day 12](day-12) - Repdigit Numbers in Ruby Way ([Ref](https://www.youtube.com/watch?v=jhUmGRZikKI))
 * [Day 13](day-13) - Fibonacci Algorithm ([Ref](https://www.youtube.com/watch?v=rccOdzwtOD0))
+* [Day 14](day-14) - Fibonacci Sequence in Ruby Way ([Ref](https://www.youtube.com/watch?v=2zMUGAD6s6A))
