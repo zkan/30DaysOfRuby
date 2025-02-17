@@ -15,3 +15,4 @@
 * [Day 13](day-13) - Fibonacci Algorithm ([Ref](https://www.youtube.com/watch?v=rccOdzwtOD0))
 * [Day 14](day-14) - Fibonacci Sequence in Ruby Way ([Ref](https://www.youtube.com/watch?v=2zMUGAD6s6A))
 * [Day 15](day-15) - Fibonacci Recursively ([Ref](https://www.youtube.com/watch?v=eFBBSQvBLJE))
+* [Day 16](day-16) - Even Fibonacci ([Ref](https://www.youtube.com/watch?v=hs4cVsva5x4))
