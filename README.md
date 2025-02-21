@@ -19,3 +19,4 @@
 * [Day 17](day-17) - Even Fibonacci Ruby Way ([Ref](https://www.youtube.com/watch?v=86lEtgO4yTM))
 * [Day 18](day-18) - Game: Missing Number ([Ref](https://www.youtube.com/watch?v=9-lbnrgD7-8))
 * [Day 19](day-19) - Ruby Way to Missing Number ([Ref](https://www.youtube.com/watch?v=3jI56aWn4IY))
+* [Day 20](day-20) - Missing Number Final Version ([Ref](https://www.youtube.com/watch?v=WSAW30USVCA))
