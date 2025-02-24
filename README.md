@@ -22,3 +22,4 @@
 * [Day 20](day-20) - Missing Number Final Version ([Ref](https://www.youtube.com/watch?v=WSAW30USVCA))
 * [Day 21](day-21) - Different Solution to Missing Number ([Ref](https://www.youtube.com/watch?v=HDyru1ACoxo)) 
 * [Day 22](day-22) - Reversing Arrays ([Ref](https://www.youtube.com/watch?v=6Eteru0Q7BU))
+* [Day 23](day-23) - Add Days to a Date ([Ref](https://medium.com/@roanbascoe5/ruby-how-to-add-days-to-a-date-d7e5da4381b2))
