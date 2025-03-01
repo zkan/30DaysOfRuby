@@ -26,3 +26,4 @@
 * [Day 24](day-24) - Hash ([Ref](https://github.com/Amey-Thakur/RUBY/tree/main/Day%2013))
 * [Day 25](day-25) - How many e-mails we sent today? ([Ref](https://www.codewars.com/kata/58a369fa5b3daf464200006c/ruby))
 * [Day 26](day-26) - Target Date ([Ref](https://www.codewars.com/kata/569218bc919ccba77000000b))
+* [Day 27](day-27) - Summing a number's digits ([Ref](https://www.codewars.com/kata/52f3149496de55aded000410))
