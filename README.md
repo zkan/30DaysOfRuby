@@ -27,3 +27,4 @@
 * [Day 25](day-25) - How many e-mails we sent today? ([Ref](https://www.codewars.com/kata/58a369fa5b3daf464200006c/ruby))
 * [Day 26](day-26) - Target Date ([Ref](https://www.codewars.com/kata/569218bc919ccba77000000b))
 * [Day 27](day-27) - Summing a number's digits ([Ref](https://www.codewars.com/kata/52f3149496de55aded000410))
+* [Day 28](day-28) - Find twins ([Ref](https://www.codewars.com/kata/5834315e06f227a6ac000099))
