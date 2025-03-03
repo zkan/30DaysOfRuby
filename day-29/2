@@ -1,5 +1,0 @@
-def is_isogram(string)
-  return true if string.empty?
-  return false unless string.downcase.chars.uniq.select { |item| string.downcase.chars.count(item) > 1 }.empty?
-  return true
-end
