@@ -28,3 +28,4 @@
 * [Day 26](day-26) - Target Date ([Ref](https://www.codewars.com/kata/569218bc919ccba77000000b))
 * [Day 27](day-27) - Summing a number's digits ([Ref](https://www.codewars.com/kata/52f3149496de55aded000410))
 * [Day 28](day-28) - Find twins ([Ref](https://www.codewars.com/kata/5834315e06f227a6ac000099))
+* [Day 29](day-29) - Isograms ([Ref](https://www.codewars.com/kata/54ba84be607a92aa900000f1))
