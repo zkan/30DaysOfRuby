@@ -29,3 +29,4 @@
 * [Day 27](day-27) - Summing a number's digits ([Ref](https://www.codewars.com/kata/52f3149496de55aded000410))
 * [Day 28](day-28) - Find twins ([Ref](https://www.codewars.com/kata/5834315e06f227a6ac000099))
 * [Day 29](day-29) - Isograms ([Ref](https://www.codewars.com/kata/54ba84be607a92aa900000f1))
+* [Day 30](day-30) - Alphabetize a list by the nth character ([Ref](https://www.codewars.com/kata/54eea36b7f914221eb000e2f))
